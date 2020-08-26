@@ -1,0 +1,27 @@
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    max-width: 80%;
+
+  }
+#title,#img-caption{
+  text-align: center;
+  padding: 20px;
+}
+#main{
+  background-color: rgb(238,238,238)
+}
+#tribute-info{
+  
+  padding-top:15px; 
+  padding-right:15px; 
+  margin-right: 300px;
+  margin-left: 300px
+
+}
+blockquote{
+  margin-right: 300px;
+  margin-left: 300px;
+}
